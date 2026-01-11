@@ -1,6 +1,6 @@
 # Privacy Policy for MetricCupid
 Last updated: January 11, 2026
-MetricCupid ("the App") is developed by Dawid Zaczek. This privacy policy explains how we handle your data.
+MetricCupid ("the App") is developed by Jacek Zaleski. This privacy policy explains how we handle your data.
 1. Data Collection and Usage
 We do not collect, store, or transmit any of your personal data.
 The App is designed as a standalone client tool that connects directly from your device to your own monitoring services (e.g., Prometheus Alertmanager, Grafana, Icinga2).
