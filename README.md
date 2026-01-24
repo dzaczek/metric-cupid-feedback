@@ -20,7 +20,7 @@ Feature Requests: You have an idea for a new metric or functionality.
 General Discussions: Questions about how to use Metric Cupid or its roadmap.
 
 ## 🔒 Security
-If you discover a security vulnerability, please do not open a public issue. Instead, contact the maintainer directly at [TWOJ_EMAIL_LUB_LINK_DO_PROFILU].
+If you discover a security vulnerability, please do not open a public issue. Instead, contact the maintainer directly at [link](https://signal.me/#eu/opgDrTBJh1CwkuH6C82qd6ikv__Io8ZRTj5yT0jciEufGaiOXuVCS6WFL6_85kRo)
 
 ## 🔗 Links
 Main Website: [Link to your app/project]
